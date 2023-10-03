@@ -729,10 +729,15 @@ header .brand {
 
     .brand img {
         max-width: 5.5rem;
+        vertical-align: middle;
+    }
+
+    header .brand{
+        margin: 5px auto;
     }
 
     .logo-light {
-        transform: translate(-9px);
+        transform: translateX(-20px);
     }
 
     .top {
