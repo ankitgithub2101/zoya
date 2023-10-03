@@ -1,6 +1,6 @@
 @font-face {
     font-family: AGaramondPro-Regular;
-    src: url(/font/AGaramondPro-Regular.otf);
+    src: url("../font/AGaramondPro-Regular.otf");
 }
 
 *,
