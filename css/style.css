@@ -663,6 +663,11 @@ header .brand {
     display: none;
   }
 
+  .shop-desk{
+    display: none;
+
+  }
+
 
 @media (max-width: 600px) {
     .desk-search {
@@ -759,5 +764,9 @@ header .brand {
     
     .header .navbar .menu{
         padding: 25px 20px !important;
+    }
+
+    .shop-desk{
+        display: block;
     }
 }
